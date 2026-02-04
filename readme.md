@@ -1,7 +1,3 @@
-Here is a clean, developer-focused `README.md`. I’ve stripped out the fluff, kept the tone pragmatic, and organized it so it’s easy to scan and use.
-
----
-
 # Insurellm RAG Assistant
 
 A lightweight, end‑to‑end RAG (Retrieval-Augmented Generation) application designed to answer questions based on Insurellm’s internal knowledge base.
@@ -114,7 +110,6 @@ Open your browser to `http://localhost:8501`.
 * Retrieved text is formatted into a system prompt.
 * The prompt enforces strict adherence to the context (i.e., if the info isn't there, say "I don't know").
 * Gemini generates the final response.
-
 
 
 ---
